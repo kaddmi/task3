@@ -1,0 +1,11 @@
+c:\users\anastasija\source\repos\task3\task3\bin\Debug\netcoreapp2.0\task3.deps.json
+c:\users\anastasija\source\repos\task3\task3\bin\Debug\netcoreapp2.0\task3.runtimeconfig.json
+c:\users\anastasija\source\repos\task3\task3\bin\Debug\netcoreapp2.0\task3.runtimeconfig.dev.json
+c:\users\anastasija\source\repos\task3\task3\bin\Debug\netcoreapp2.0\task3.dll
+c:\users\anastasija\source\repos\task3\task3\bin\Debug\netcoreapp2.0\task3.pdb
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.csprojAssemblyReference.cache
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.csproj.CoreCompileInputs.cache
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.AssemblyInfoInputs.cache
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.AssemblyInfo.cs
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.dll
+c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.pdb
