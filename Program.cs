@@ -11,12 +11,7 @@ namespace Task3
             employees.Add(new Employee() { FullName = "Pischik A.", Salary = 400});
             employees.Add(new Employee() { FullName = "Ivanova J.", Salary = 200});
             employees.Add(new Employee() { FullName = "Komolova K.", Salary = 500 });
-            employees.Sort(new Employee());
-            for (int i = 0; i < employees.Count; i++)
-            {
-                Employee emp = employees[i];
-                Console.WriteLine("Full name: {0}; Salary: {1}", emp.FullName, emp.Salary);
-            }
+            
             employees.Sort();
             for (int i = 0; i < employees.Count; i++)
             {
