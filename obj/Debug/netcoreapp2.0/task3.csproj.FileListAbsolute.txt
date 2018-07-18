@@ -9,3 +9,14 @@ c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.Assem
 c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.AssemblyInfo.cs
 c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.dll
 c:\users\anastasija\source\repos\task3\task3\obj\Debug\netcoreapp2.0\task3.pdb
+D:\gk\task3\task3\task3\bin\Debug\netcoreapp2.0\task3.deps.json
+D:\gk\task3\task3\task3\bin\Debug\netcoreapp2.0\task3.runtimeconfig.json
+D:\gk\task3\task3\task3\bin\Debug\netcoreapp2.0\task3.runtimeconfig.dev.json
+D:\gk\task3\task3\task3\bin\Debug\netcoreapp2.0\task3.dll
+D:\gk\task3\task3\task3\bin\Debug\netcoreapp2.0\task3.pdb
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.csprojResolveAssemblyReference.cache
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.csproj.CoreCompileInputs.cache
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.AssemblyInfoInputs.cache
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.AssemblyInfo.cs
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.dll
+D:\gk\task3\task3\task3\obj\Debug\netcoreapp2.0\task3.pdb

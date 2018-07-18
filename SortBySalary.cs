@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Task3
 {
-    class SortBySalary : IComparer<Empoyee>
+    class SortBySalary : IComparer<Employee>
     {
-        public int Compare(Empoyee e1, Empoyee e2)
+        public int Compare(Employee e1, Employee e2)
         {
             if (e1.Salary < e2.Salary)
                 return -1;
